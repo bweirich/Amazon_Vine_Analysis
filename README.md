@@ -11,21 +11,27 @@ The anlaysis used PySpark to perform the ETL and the analysis of Vine Reviews.
 
 ### Total Number of Reviews
 - Total Paid Reviews
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/Amazon_Vine_Analysis/main/images/Total_Paid.PNG)
 - Total Unpaid Reviews
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/Amazon_Vine_Analysis/main/images/Total_Unpaid.PNG)
 
 ### Total 5 Star Reviews
 - Total Paid 5 Star Reviews
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/Amazon_Vine_Analysis/main/images/Total_Paid_5.PNG)
 - Total Unpaid 5 Star Reviews
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/Amazon_Vine_Analysis/main/images/Total_Unpaid_5.PNG)
 
 ### Percentage of 5 Star Reviews
 - Percentage of Paid 5 Star Reviews
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/Amazon_Vine_Analysis/main/images/Percent_Paid_5.PNG)
 - Percentage of Unpaid 5 Star Reviews
+
 ![alt_text](https://raw.githubusercontent.com/bweirich/Amazon_Vine_Analysis/main/images/Percent_Unpaid_5.PNG)
 
 ## Summary
-The percentage of unpaid reviews (62.32%) is higher then that of the paid reviews (42.52%) indicating that there is not positive bias for reviews in the Vine program.  Additionally you could view the distribution of star ratings for paid and unpaid reviews to compare the overall star ratings of one group to the other.
+The percentage of unpaid reviews (62.32%) is higher then that of the paid reviews (42.52%) indicating that there is not positive bias for reviews in the Vine program.  There is a much higher number of unpaid reviews (99.61%) compared to paid reviews (0.39%) which should be taken into consideration.  Additionally you could view the distribution of star ratings for paid and unpaid reviews to compare the overall star ratings of one group to the other.
