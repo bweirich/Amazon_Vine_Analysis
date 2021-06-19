@@ -3,7 +3,7 @@
 ## Purpose
 The purpose of the analysis is to determine if there are any is bias toward reviews in the Vine program, which is a service that allows companies to receive reviews on their products from Amazon.  The companies pay Amazon to give products to the reviewers to publish reviews.  
 
-The analysis has been completed on the Pet Products dataset from Amazon Review Datasets found ![here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt).
+The analysis has been completed on the Pet Products dataset from Amazon Review Datasets found [here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt).
 
 The anlaysis used PySpark to perform the ETL and the analysis of Vine Reviews.
 
